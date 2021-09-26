@@ -1,0 +1,28 @@
+* {
+    margin: 0; 
+    padding: 0;
+    cursor: default;
+}
+
+table {
+    border-spacing: 0px 0px;    
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+td {
+    background-color: #f0f0f0;    
+    padding: 5px;
+}
+
+td, table {
+    border: 1px solid black;
+}
+
+td:hover {
+    background-color: #e7eaed;
+}
+
+.column_2 {
+    width: 400px;
+}
